@@ -1,0 +1,7 @@
+Uppsala;75242
+Höllviken;23642
+Växjö;35243
+Jönköping;51000
+Västerås;72211
+Umeå;90325
+Boden;96133
